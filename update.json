@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.6.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.6.1.exe",
-    "notes": "Fixes the crash when pressing Clean.",
+    "version": "0.6.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.6.2.exe",
+    "notes": "Much faster cleaning, a Cancel button while cleaning, and a progress percentage.",
     "force": false,
-    "build": 3,
+    "build": 4,
     "minBuild": 3,
-    "signature": "8a54df2157b4cf3327d75fd35cd0c50b19c124fac2701c82aa76bb56a95e9fc09f768a412316895335c41e3a94ccc7c20b5d6be1700ef006fa021c43f41c2705"
+    "signature": "86c14882ba2b2a343edc23ae990a83f0a70e0132283001a64ff4ec362c9ab7fbb9818efe0ed96c8309adb1e097263c6a74009c0af7e57adb8bd96ee0784d7507"
   }
 }
