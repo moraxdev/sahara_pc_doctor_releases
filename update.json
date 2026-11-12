@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.5.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.5.0.exe",
-    "notes": "First release of the rebuilt Sahara PC Doctor: Cleaner module with safety ratings, Smart Selection, review before cleaning and live results.",
+    "version": "0.6.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.6.0.exe",
+    "notes": "Click Safely reclaimable to select everything safe to delete; new Reclaimable list; scan progress in percent.",
     "force": false,
-    "build": 1,
+    "build": 2,
     "minBuild": 0,
-    "signature": "9f47a67b3216f3b0c3a2cc64a2317ee8abde972bfdded11a13a927d5cc1bbd45ddbeb14c24ff261f823aa934954038b0722bbc96324b8e8ce20cd1593ea8a809"
+    "signature": "d9249d9592d9ff53e1367a2b6fc3ed176f0f8cc5451c58147e17cf3baec69de72f15a9443dc4283640bdfc2c102e21347f67f526a60b6d997962fdabe338bd09"
   }
 }
