@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.7.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.7.0.exe",
-    "notes": "New modules: Apps (uninstall), Startup, Health (system + drive health) and Repair (registry, drivers, Windows files).",
+    "version": "0.7.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.7.1.exe",
+    "notes": "Apps is now a clean list; suites like Office show once; uninstall fixed.",
     "force": false,
-    "build": 5,
+    "build": 6,
     "minBuild": 3,
-    "signature": "6dcacbe2cb63088c0b6c72d4106eaa547f6f613efd837d13c4cdbac9a31764b545db5ffc3ba4bdd30ea29505faf7ddccc077d1bc166c915d2ee3bbaffb05b801"
+    "signature": "4facdf835db4ad972a586defbe8da9292062dcb171a5f5426c60e7600ccac1328dbdaa23e2b4308117c74efe34e98671c9f3ec72035a787c49f7e53e4928f102"
   }
 }
