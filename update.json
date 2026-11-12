@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.6.2",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.6.2.exe",
-    "notes": "Much faster cleaning, a Cancel button while cleaning, and a progress percentage.",
+    "version": "0.7.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.7.0.exe",
+    "notes": "New modules: Apps (uninstall), Startup, Health (system + drive health) and Repair (registry, drivers, Windows files).",
     "force": false,
-    "build": 4,
+    "build": 5,
     "minBuild": 3,
-    "signature": "86c14882ba2b2a343edc23ae990a83f0a70e0132283001a64ff4ec362c9ab7fbb9818efe0ed96c8309adb1e097263c6a74009c0af7e57adb8bd96ee0784d7507"
+    "signature": "6dcacbe2cb63088c0b6c72d4106eaa547f6f613efd837d13c4cdbac9a31764b545db5ffc3ba4bdd30ea29505faf7ddccc077d1bc166c915d2ee3bbaffb05b801"
   }
 }
