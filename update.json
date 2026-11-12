@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.6.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.6.0.exe",
-    "notes": "Click Safely reclaimable to select everything safe to delete; new Reclaimable list; scan progress in percent.",
+    "version": "0.6.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.6.1.exe",
+    "notes": "Fixes the crash when pressing Clean.",
     "force": false,
-    "build": 2,
-    "minBuild": 0,
-    "signature": "d9249d9592d9ff53e1367a2b6fc3ed176f0f8cc5451c58147e17cf3baec69de72f15a9443dc4283640bdfc2c102e21347f67f526a60b6d997962fdabe338bd09"
+    "build": 3,
+    "minBuild": 3,
+    "signature": "8a54df2157b4cf3327d75fd35cd0c50b19c124fac2701c82aa76bb56a95e9fc09f768a412316895335c41e3a94ccc7c20b5d6be1700ef006fa021c43f41c2705"
   }
 }
