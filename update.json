@@ -1,0 +1,11 @@
+{
+  "windows": {
+    "version": "0.5.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.5.0.exe",
+    "notes": "First release of the rebuilt Sahara PC Doctor: Cleaner module with safety ratings, Smart Selection, review before cleaning and live results.",
+    "force": false,
+    "build": 1,
+    "minBuild": 0,
+    "signature": "9f47a67b3216f3b0c3a2cc64a2317ee8abde972bfdded11a13a927d5cc1bbd45ddbeb14c24ff261f823aa934954038b0722bbc96324b8e8ce20cd1593ea8a809"
+  }
+}
