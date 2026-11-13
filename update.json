@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.7.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.7.1.exe",
-    "notes": "Apps is now a clean list; suites like Office show once; uninstall fixed.",
+    "version": "0.8.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.8.0.exe",
+    "notes": "New Debloat module, and a detailed Hardware view in Health (CPU, board, memory modules, graphics with live NVIDIA sensors).",
     "force": false,
-    "build": 6,
+    "build": 7,
     "minBuild": 3,
-    "signature": "4facdf835db4ad972a586defbe8da9292062dcb171a5f5426c60e7600ccac1328dbdaa23e2b4308117c74efe34e98671c9f3ec72035a787c49f7e53e4928f102"
+    "signature": "586b310e3fd304ec918ab4597c461ec05cc392b401c86d66256305fc6a3793e2f5bce1387d023296d98e82ea7a282c6723c181db010989e2154aff88f97bf90b"
   }
 }
