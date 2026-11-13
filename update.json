@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.9.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.9.0.exe",
-    "notes": "New Drivers module: finds newer drivers in Windows Update and installs them with live progress and speed.",
+    "version": "0.10.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.10.0.exe",
+    "notes": "Drivers now also searches the full Microsoft Update Catalog and NVIDIA directly.",
     "force": false,
-    "build": 9,
+    "build": 10,
     "minBuild": 3,
-    "signature": "4dd45955163194fcec016c73656582c0f320f28eab745b150ae33cf90a50fb5a02145419d6aad1950227844a5667633fdb9461804060745016724eaeb3ca9f07"
+    "signature": "d24271736b43f213a9bf78f83d28380c189a60a81ea1b952c50f0524c9ee5f1ef5fdeebc275830e835f3cbf7d80a80e5242b9ce6d9c7ef8bc56e568d8c7e5d09"
   }
 }
