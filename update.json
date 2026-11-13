@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.10.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.10.0.exe",
-    "notes": "Drivers now also searches the full Microsoft Update Catalog and NVIDIA directly.",
+    "version": "0.11.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.11.0.exe",
+    "notes": "Drivers: live device-by-device scan, game components (Java, Visual C++, DirectX, .NET), up-to-date list, better Microsoft Catalog matching.",
     "force": false,
-    "build": 10,
+    "build": 11,
     "minBuild": 3,
-    "signature": "d24271736b43f213a9bf78f83d28380c189a60a81ea1b952c50f0524c9ee5f1ef5fdeebc275830e835f3cbf7d80a80e5242b9ce6d9c7ef8bc56e568d8c7e5d09"
+    "signature": "cb9fd4a3f09bd5107467afea7f87aba14361e13f73e2be97dfe9352cc8170b5edd2abe129371efc22e92de50e477f5d3b87c6deb68cf7c685708027b0fa69207"
   }
 }
