@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.11.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.11.0.exe",
-    "notes": "Drivers: live device-by-device scan, game components (Java, Visual C++, DirectX, .NET), up-to-date list, better Microsoft Catalog matching.",
+    "version": "0.11.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.11.1.exe",
+    "notes": "Fixes the driver scan reading no devices.",
     "force": false,
-    "build": 11,
+    "build": 12,
     "minBuild": 3,
-    "signature": "cb9fd4a3f09bd5107467afea7f87aba14361e13f73e2be97dfe9352cc8170b5edd2abe129371efc22e92de50e477f5d3b87c6deb68cf7c685708027b0fa69207"
+    "signature": "5c885c818c58cb49df4e7e8a044ba053268d734a3ec946225d9a89145a36794be1c52cd398cc61939f56e7f18273fd82ee8873715f7e989e096ad360dc93020f"
   }
 }
