@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.8.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.8.1.exe",
-    "notes": "Fixes the Widgets setting error; shows every monitor in Hardware.",
+    "version": "0.9.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.9.0.exe",
+    "notes": "New Drivers module: finds newer drivers in Windows Update and installs them with live progress and speed.",
     "force": false,
-    "build": 8,
+    "build": 9,
     "minBuild": 3,
-    "signature": "70bf0bfea06efc4ab159eafdfec982354d7bc2f7ac9f6875ab1cdc8e5437696ee63df204bfa8e790ce3cf6d7a1b11b730b0c882b1f57858d64759c9987f34c01"
+    "signature": "4dd45955163194fcec016c73656582c0f320f28eab745b150ae33cf90a50fb5a02145419d6aad1950227844a5667633fdb9461804060745016724eaeb3ca9f07"
   }
 }
