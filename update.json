@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.8.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.8.0.exe",
-    "notes": "New Debloat module, and a detailed Hardware view in Health (CPU, board, memory modules, graphics with live NVIDIA sensors).",
+    "version": "0.8.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.8.1.exe",
+    "notes": "Fixes the Widgets setting error; shows every monitor in Hardware.",
     "force": false,
-    "build": 7,
+    "build": 8,
     "minBuild": 3,
-    "signature": "586b310e3fd304ec918ab4597c461ec05cc392b401c86d66256305fc6a3793e2f5bce1387d023296d98e82ea7a282c6723c181db010989e2154aff88f97bf90b"
+    "signature": "70bf0bfea06efc4ab159eafdfec982354d7bc2f7ac9f6875ab1cdc8e5437696ee63df204bfa8e790ce3cf6d7a1b11b730b0c882b1f57858d64759c9987f34c01"
   }
 }
