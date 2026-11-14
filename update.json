@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.11.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.11.1.exe",
-    "notes": "Fixes the driver scan reading no devices.",
+    "version": "0.11.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.11.2.exe",
+    "notes": "Driver downloads now resume after the internet drops.",
     "force": false,
-    "build": 12,
+    "build": 13,
     "minBuild": 3,
-    "signature": "5c885c818c58cb49df4e7e8a044ba053268d734a3ec946225d9a89145a36794be1c52cd398cc61939f56e7f18273fd82ee8873715f7e989e096ad360dc93020f"
+    "signature": "2063fdd0ac591d0884fd616f89f83ec5d0ca07459ca795ffa683504cac83d4f830dd5af1ca9eb0691eb70f3e87479ed275ae10a8364d838e9df14b8e8bcbb601"
   }
 }
