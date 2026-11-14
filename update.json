@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.12.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.12.1.exe",
-    "notes": "Network check-up now shows each step live.",
+    "version": "0.12.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.12.2.exe",
+    "notes": "Drivers: confirms each install really applied and stops re-offering drivers Windows keeps refusing.",
     "force": false,
-    "build": 16,
+    "build": 17,
     "minBuild": 3,
-    "signature": "2b88105e01052e97b9846285be1aa0d8bfec3068a1c1d6b568df44ca823245ed452d6528a0b167e2dfaf125e6462f17a61050595789ad322c6f48e5b85a14200"
+    "signature": "4b97978ccd5f7a6e686bce6fd742ff0878f20f66b9b209ea7992a0327698aeaa40198b755e32f18e09e2edc972882e0c789be9686f42adb20473dbe7d7a0110e"
   }
 }
