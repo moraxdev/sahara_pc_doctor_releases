@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.12.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.12.0.exe",
-    "notes": "New Network module: live internet use per app, block or end apps, security check (miners, hosts, proxy, DNS, firewall) and speed test.",
+    "version": "0.12.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.12.1.exe",
+    "notes": "Network check-up now shows each step live.",
     "force": false,
-    "build": 15,
+    "build": 16,
     "minBuild": 3,
-    "signature": "f336d56c51ffcc06c1b5b1be173c2615178f59cfe0a44b48dc041d6e9b60052df123ac1cbb70f86d0b44fa4a308f274cef8848a22cc538cb5706d02ab2328e08"
+    "signature": "2b88105e01052e97b9846285be1aa0d8bfec3068a1c1d6b568df44ca823245ed452d6528a0b167e2dfaf125e6462f17a61050595789ad322c6f48e5b85a14200"
   }
 }
