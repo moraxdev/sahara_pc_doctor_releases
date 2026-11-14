@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.11.3",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.11.3.exe",
-    "notes": "Driver installs now show live progress; NVIDIA installs no longer appear stuck.",
+    "version": "0.12.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.12.0.exe",
+    "notes": "New Network module: live internet use per app, block or end apps, security check (miners, hosts, proxy, DNS, firewall) and speed test.",
     "force": false,
-    "build": 14,
+    "build": 15,
     "minBuild": 3,
-    "signature": "165acbd80b864e0fa2f6e9f87ec6c046640e79550308969292a634c81e63e88eb20b9fbf10b524f6fdb1474a5a6e1b13d1208e403cfa245c0bb06e1779cc460e"
+    "signature": "f336d56c51ffcc06c1b5b1be173c2615178f59cfe0a44b48dc041d6e9b60052df123ac1cbb70f86d0b44fa4a308f274cef8848a22cc538cb5706d02ab2328e08"
   }
 }
