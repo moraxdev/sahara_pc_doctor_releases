@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.11.2",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.11.2.exe",
-    "notes": "Driver downloads now resume after the internet drops.",
+    "version": "0.11.3",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.11.3.exe",
+    "notes": "Driver installs now show live progress; NVIDIA installs no longer appear stuck.",
     "force": false,
-    "build": 13,
+    "build": 14,
     "minBuild": 3,
-    "signature": "2063fdd0ac591d0884fd616f89f83ec5d0ca07459ca795ffa683504cac83d4f830dd5af1ca9eb0691eb70f3e87479ed275ae10a8364d838e9df14b8e8bcbb601"
+    "signature": "165acbd80b864e0fa2f6e9f87ec6c046640e79550308969292a634c81e63e88eb20b9fbf10b524f6fdb1474a5a6e1b13d1208e403cfa245c0bb06e1779cc460e"
   }
 }
