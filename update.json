@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.12.2",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.12.2.exe",
-    "notes": "Drivers: confirms each install really applied and stops re-offering drivers Windows keeps refusing.",
+    "version": "0.13.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.13.0.exe",
+    "notes": "New Disk module: defragment hard disks, TRIM for SSDs, boot optimize, free-space consolidation, game-library check, schedule and a real drive speed test.",
     "force": false,
-    "build": 17,
+    "build": 18,
     "minBuild": 3,
-    "signature": "4b97978ccd5f7a6e686bce6fd742ff0878f20f66b9b209ea7992a0327698aeaa40198b755e32f18e09e2edc972882e0c789be9686f42adb20473dbe7d7a0110e"
+    "signature": "76fda227f332f02810cb375a8f75f6aea16a09b9a637df9a9740e2ec6823e4545ee9f02d6a20e11d13996bb08fe287c0708f959e37273652cb93bf5256c5eb09"
   }
 }
