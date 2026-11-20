@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.14.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.14.1.exe",
-    "notes": "Fixes the app freezing when opening a download site.",
+    "version": "0.15.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.15.0.exe",
+    "notes": "Software: a ready list of free programs with one-click direct download, and Rescan to refresh links from mutaz.net.",
     "force": false,
-    "build": 20,
+    "build": 21,
     "minBuild": 20,
-    "signature": "eb501254b44f5c8a80a32a28837e24eb034d9db1ce482b0fa2451546311043baf7108f8625ea2ba095184dbb8a462609314ca936250d51f75190c3ebe05abb04"
+    "signature": "6c81f9e243e3f1ab2e68b6957a57b3aef76b2faae37a5ad311beb8ba2b1665762a6fd4f6e28844a695a7bc7e86549dc2bc082d8c93a2ed6c806a98884cbf5108"
   }
 }
