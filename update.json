@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.13.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.13.0.exe",
-    "notes": "New Disk module: defragment hard disks, TRIM for SSDs, boot optimize, free-space consolidation, game-library check, schedule and a real drive speed test.",
+    "version": "0.14.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.14.0.exe",
+    "notes": "New Software module: browse mutaz.net and FileHippo inside the app and download any program with its direct link, progress and speed.",
     "force": false,
-    "build": 18,
+    "build": 19,
     "minBuild": 3,
-    "signature": "76fda227f332f02810cb375a8f75f6aea16a09b9a637df9a9740e2ec6823e4545ee9f02d6a20e11d13996bb08fe287c0708f959e37273652cb93bf5256c5eb09"
+    "signature": "2f67a903cc49bf6e9faff28e9e5e02b528829c8f9884ac6989226fa3ff1a187ce5c20e3bfab567da8f7b278d8b9a033a02962134561b12b73545bfbe0cb40d0e"
   }
 }
