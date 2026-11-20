@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.14.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.14.0.exe",
-    "notes": "New Software module: browse mutaz.net and FileHippo inside the app and download any program with its direct link, progress and speed.",
+    "version": "0.14.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.14.1.exe",
+    "notes": "Fixes the app freezing when opening a download site.",
     "force": false,
-    "build": 19,
-    "minBuild": 3,
-    "signature": "2f67a903cc49bf6e9faff28e9e5e02b528829c8f9884ac6989226fa3ff1a187ce5c20e3bfab567da8f7b278d8b9a033a02962134561b12b73545bfbe0cb40d0e"
+    "build": 20,
+    "minBuild": 20,
+    "signature": "eb501254b44f5c8a80a32a28837e24eb034d9db1ce482b0fa2451546311043baf7108f8625ea2ba095184dbb8a462609314ca936250d51f75190c3ebe05abb04"
   }
 }
