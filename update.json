@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.15.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.15.0.exe",
-    "notes": "Software: a ready list of free programs with one-click direct download, and Rescan to refresh links from mutaz.net.",
+    "version": "0.15.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.15.1.exe",
+    "notes": "Compact program list; direct downloads; all programs enabled",
     "force": false,
-    "build": 21,
-    "minBuild": 20,
-    "signature": "6c81f9e243e3f1ab2e68b6957a57b3aef76b2faae37a5ad311beb8ba2b1665762a6fd4f6e28844a695a7bc7e86549dc2bc082d8c93a2ed6c806a98884cbf5108"
+    "build": 22,
+    "minBuild": 0,
+    "signature": "f17327210d873d2ccc619ea523987ae57d9c8afe026d925c368d27cf2864476ae4acacfc0312f25aa5531ab3eb2af9d5207a8106c6495762143a265ce9100201"
   }
 }
