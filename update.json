@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.16.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-Setup-0.16.1.exe",
-    "notes": "Antivirus fix",
+    "version": "0.16.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-Setup-0.16.2.exe",
+    "notes": "FileHippo downloads",
     "force": false,
-    "build": 25,
+    "build": 26,
     "minBuild": 0,
-    "signature": "f93f84610ddea7e881bca901d8092f235ec61b1e3a34a633a4d63eeb082efeb90f7d8251d4329a36cc55f6edc379afbaf1454f4e6d3d929d86341c685c24eb04"
+    "signature": "e16f77fe5492b1dccb93cb20680a211c407e80bb04c28f3418d86cc5ede97b04eeeff4c9c62c9e2f50ad939aeefb175fa2f9d314057d756213d2728951533202"
   }
 }
