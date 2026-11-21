@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.15.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.15.1.exe",
-    "notes": "Compact program list; direct downloads; all programs enabled",
+    "version": "0.15.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-0.15.2.exe",
+    "notes": "Fix antivirus false alarm",
     "force": false,
-    "build": 22,
+    "build": 23,
     "minBuild": 0,
-    "signature": "f17327210d873d2ccc619ea523987ae57d9c8afe026d925c368d27cf2864476ae4acacfc0312f25aa5531ab3eb2af9d5207a8106c6495762143a265ce9100201"
+    "signature": "b5392bcb1fe6c74692e7f744b76df88fe8c24b30e1bbf59b33a0d8eeea5b6e30711fc96a4095928d797a298212bc1e8f8c14f60e16f29a414f4bf49f91e5fa01"
   }
 }
