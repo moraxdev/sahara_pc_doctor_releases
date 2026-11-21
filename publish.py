@@ -12,7 +12,7 @@ o = a.parse_args()
 from cryptography.hazmat.primitives.serialization import load_pem_private_key
 key = load_pem_private_key(open(o.key, "rb").read(), None)
 data = open(o.file, "rb").read()
-name = f"windows/Sahara-PC-Doctor-{o.version}.exe"
+name = f"windows/Sahara-PC-Doctor-Setup-{o.version}.exe"
 os.makedirs("windows", exist_ok=True)
 for old in os.listdir("windows"): os.remove(os.path.join("windows", old))
 shutil.copyfile(o.file, name)
