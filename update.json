@@ -1,11 +1,11 @@
 {
   "windows": {
-    "version": "0.17.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-Setup-0.17.0.exe",
-    "notes": "Downloads through Windows (BITS)",
+    "version": "0.18.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahara_pc_doctor_releases/main/windows/Sahara-PC-Doctor-Setup-0.18.0.exe",
+    "notes": "New look: Night Glass design, matching Sahra Hub and PMO Toolkit.",
     "force": false,
-    "build": 27,
+    "build": 28,
     "minBuild": 0,
-    "signature": "f6f7fbeb5fdf0901e555ad23e59da72b76f7209e463abd77d0f6d0f2d6250f0c9783aaf3adcc74be6b35bb40b9df4fe62783bb264a8c5b844c56409cbcebf707"
+    "signature": "7cb00258b9c0db70223d34478e07c6990eb85a8d8a6615380c97b143f349e6093228232e950920558039d6780dedba591355efce73cb23feebbb94813a1a560a"
   }
 }
